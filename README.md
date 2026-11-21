@@ -13,7 +13,7 @@ computer.
 The page's SHA-256 fingerprint is:
 
 ```
-16554f98df94a7f19541cda5a77f7b75291a4cdc9e63f44c08c63a50b2448417
+53141ae81c2b5be25a983cae843b7ed61a599feb2cc823ac8cb3590a368dcf3e
 ```
 
 On a Mac or Linux: `shasum -a 256 fvampay-exit.html`. On Windows: `certutil -hashfile fvampay-exit.html SHA256`.
