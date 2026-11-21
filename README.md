@@ -13,7 +13,7 @@ computer.
 The page's SHA-256 fingerprint is:
 
 ```
-53141ae81c2b5be25a983cae843b7ed61a599feb2cc823ac8cb3590a368dcf3e
+ff77c6b2108966a984a8529a66f1d504cfb354bf4db81d149c4abf400515962f
 ```
 
 On a Mac or Linux: `shasum -a 256 fvampay-exit.html`. On Windows: `certutil -hashfile fvampay-exit.html SHA256`.
@@ -21,8 +21,8 @@ The result must match exactly. If it doesn't, don't use that copy.
 
 ## Networks
 
-This version covers **Base Sepolia**, the test network. The Base version is published here when FVAMPay goes live
-on Base, with its own fingerprint.
+This version covers **Base**, FVAMPay's live network, and **Base Sepolia**, the test network. Choose the one your
+account is on: the page starts on Base.
 
 ## What it does
 
