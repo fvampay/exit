@@ -21,8 +21,8 @@ The result must match exactly. If it doesn't, don't use that copy.
 
 ## Networks
 
-This version covers **Base**, FVAMPay's live network, and **Base Sepolia**, the test network. Choose the one your
-account is on: the page starts on Base.
+This version covers **Base** (mainnet) and **Base Sepolia**, the test network. Choose the one your account is on:
+the page starts on Base.
 
 ## What it does
 
